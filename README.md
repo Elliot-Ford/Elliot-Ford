@@ -6,7 +6,7 @@
   - 🐳 Docker & Container technologies
 - 🌱 I’m currently learning ...
   - 🦀 Rust
-  - 🛶 Nomad
+  - 🛶 K3s
   - ⌨️ Typewriter repair
 <!---
 - 💞️ I’m looking to collaborate on ...
